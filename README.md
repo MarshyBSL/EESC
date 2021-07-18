@@ -6,4 +6,3 @@ cd ./agbcc
 ./install.sh ../pokeemerald
 
 cd ../pokeemerald
-make compare
